@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python:*)"
+      "Bash(git mv:*)",
+      "Bash(ls:*)",
+      "Bash(python:*)",
+      "Bash(for f in *.tmp)",
+      "Bash(do mv \"$f\" \"$f%.tmp\")",
+      "Bash(done)"
     ]
   }
 }
