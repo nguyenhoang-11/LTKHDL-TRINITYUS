@@ -18,9 +18,9 @@
 
 | STT | Họ và Tên           | MSSV     | Email                         |
 |-----|---------------------|----------|-------------------------------|
-| 1   | Bùi Đoàn Thúy Vy    | [MSSV]   | [email]@student.hcmus.edu.vn |
-| 2   | Phạm Trần Trung Hậu | [MSSV]   | [email]@student.hcmus.edu.vn |
-| 3   | Nguyễn Việt Hoàng   | [MSSV]   | [email]@student.hcmus.edu.vn |
+| 1   | Bùi Đoàn Thúy Vy    | 22120448 | 22120448@student.hcmus.edu.vn |
+| 2   | Phạm Trần Trung Hậu | 22120100 | 22120100@student.hcmus.edu.vn |
+| 3   | Nguyễn Việt Hoàng   | 22120113 | 22120113@student.hcmus.edu.vn |
 
 ---
 
@@ -341,12 +341,12 @@ jupyter lab
 
 ## Thông Tin Liên Hệ
 
-**Nhóm:** [Điền mã nhóm]
+**Nhóm: 02 - Trinity US**
 
 **Thành viên:**
-- Bùi Đoàn Thúy Vy: [email]@student.hcmus.edu.vn
-- Phạm Trần Trung Hậu: [email]@student.hcmus.edu.vn
-- Nguyễn Việt Hoàng: [email]@student.hcmus.edu.vn
+- Bùi Đoàn Thúy Vy: 22120448@student.hcmus.edu.vn
+- Phạm Trần Trung Hậu: 22120100@student.hcmus.edu.vn 
+- Nguyễn Việt Hoàng: 22120113@student.hcmus.edu.vn 
 
 ---
 
